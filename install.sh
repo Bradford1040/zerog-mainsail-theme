@@ -11,7 +11,7 @@
 # https://github.com/protoloft/klipper_z_calibration/blob/master/install.sh
 
 # Default Parameters
-KLIPPER_TARGET_DIR="${HOME}/printer_data/config"
+KLIPPER_TARGET_DIR="${HOME}/punisher_data/config"
 SRCDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )"/ && pwd )"
 
 function install_script {
